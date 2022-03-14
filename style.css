@@ -1,0 +1,44 @@
+:root {
+  font-size: 20px;
+}
+body {
+  background-color: whitesmoke;
+  display: flex;
+  flex-wrap: wrap;
+  /* border-radius: 10px;
+  padding: 0px;
+  background-color: white;
+  width: 270px;
+  height: 400px;
+  font-size: 20px;
+  box-shadow: 1px 2px 3px 1px; */
+}
+.container {
+  box-shadow: 2px 5px 10px #c0c0bb;
+  max-width: 250px;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  margin: 20px;
+}
+
+flag {
+  height: 100px;
+  width: 100%;
+  transition: 1s;
+}
+.info {
+  padding: 10px;
+  justify-content: center;
+}
+.side-heading {
+  font-weight: bold;
+  justify-content: center;
+}
+.flag:hover {
+  transform: scale(1.2);
+  cursor: pointer;
+}
