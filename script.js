@@ -37,3 +37,6 @@ createFlag(flagBrazil, "Brazil", "206,135,293", "Americas", "Brasilla");
 let flagIceland =
   "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/320px-Flag_of_Iceland.svg.png";
 createFlag(flagIceland, "Iceland", "334,300", "Europe", "Reykjavik");
+let flagAfghanistan =
+  "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Flag_of_Afghanistan_%28Colored_Emblem%29.svg/364px-Flag_of_Afghanistan_%28Colored_Emblem%29.svg.png";
+createFlag(flagAfghanistan, "Afghanistan", "27,657,700", "Asia", "Kabul");
