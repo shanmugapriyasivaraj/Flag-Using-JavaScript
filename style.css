@@ -5,13 +5,6 @@ body {
   background-color: whitesmoke;
   display: flex;
   flex-wrap: wrap;
-  /* border-radius: 10px;
-  padding: 0px;
-  background-color: white;
-  width: 270px;
-  height: 400px;
-  font-size: 20px;
-  box-shadow: 1px 2px 3px 1px; */
 }
 .container {
   box-shadow: 2px 5px 10px #c0c0bb;
